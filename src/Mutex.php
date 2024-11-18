@@ -1,6 +1,6 @@
 <?php
 
-namespace Talmp\Phputils;
+namespace K92\Phputils;
 
 # This is an mutex implementation at OS level
 class Mutex

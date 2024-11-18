@@ -1,7 +1,7 @@
 <?php
 
+use K92\Phputils\CLIUtil;
 use PHPUnit\Framework\TestCase;
-use Talmp\Phputils\CLIUtil;
 
 class CLIUtilTest extends TestCase
 {

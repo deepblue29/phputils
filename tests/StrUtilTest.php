@@ -1,7 +1,7 @@
 <?php
 
+use K92\Phputils\StrUtil;
 use PHPUnit\Framework\TestCase;
-use Talmp\Phputils\StrUtil;
 
 class StrUtilTest extends TestCase
 {

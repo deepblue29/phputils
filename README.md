@@ -5,7 +5,7 @@ phputils is a share utility library
 ## Usage
 
 ```php
-use Talmp\Phputils\StrUtil;
+use K92\Phputils\StrUtil;
 
 // normal case
 str_replace([1, 2], [2, 3], '12');                            // '33'
@@ -28,7 +28,7 @@ Need mbstring extension
 Use the package manager [composer](https://getcomposer.org/) to install phputils.
 
 ```bash
-composer require talmp/phputils
+composer require k92/phputils
 ```
 
 ## Testing

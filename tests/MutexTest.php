@@ -1,7 +1,7 @@
 <?php
 
+use K92\Phputils\Mutex;
 use PHPUnit\Framework\TestCase;
-use Talmp\Phputils\Mutex;
 
 class MutexTest extends TestCase
 {

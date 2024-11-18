@@ -1,8 +1,8 @@
 <?php
 
+use K92\Phputils\EncodeUtil;
 use Faker\Factory;
 use PHPUnit\Framework\TestCase;
-use Talmp\Phputils\EncodeUtil;
 
 class EncodeUtilTest extends TestCase
 {

@@ -1,7 +1,7 @@
 <?php
 
+use K92\Phputils\CurlCharEscape;
 use PHPUnit\Framework\TestCase;
-use Talmp\Phputils\CurlCharEscape;
 
 class CurlCharEscapeTest extends TestCase
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Talmp\Phputils;
+namespace K92\Phputils;
 
 use voku\helper\ASCII;
 

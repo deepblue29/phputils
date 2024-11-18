@@ -1,6 +1,6 @@
 <?php
 
-use Talmp\Phputils\BashCharEscape;
+use K92\Phputils\BashCharEscape;
 use PHPUnit\Framework\TestCase;
 
 class BashCharEscapeTest extends TestCase
