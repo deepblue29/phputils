@@ -5,9 +5,9 @@ namespace K92\Phputils;
 class BashCharEscape
 {
     public static function escape(
-        string $str,
-        string $lbs,
-        string $hbs,
+        string $str = '',
+        string $lbs = '',
+        string $hbs = '\\',
         string $quote = "'",
         array $over_ride = []
     ): string {
